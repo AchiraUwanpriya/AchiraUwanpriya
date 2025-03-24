@@ -1,3 +1,21 @@
+
+<h1 align="center">Achira Senadheera</h1>
+ 
+ <p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;ML+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Software+Engineer+Enthusiast+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
+ 
+ </p>
+ 
+ <p align="center">
+   <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
+   <a href="https://www.akilainduwara.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
+ </p>
+
+
+
 # 👨‍💻 Hi, I'm [Your Name]!
 
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
