@@ -6,7 +6,7 @@
 <h1 align="center"> 👨‍💻 Hi, I'm Achira Senadheera </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Web+Developer+Enthusiast+%7C+Software+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Mobile+App+Frontend+Developer+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Web+Developer+Enthusiast+%7C+Software+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Mobile+App+Frontend+Developer+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
 
 </p>
 
