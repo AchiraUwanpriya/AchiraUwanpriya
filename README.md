@@ -1,110 +1,97 @@
+<!-- Updated GitHub Profile README -->
 <div align="center">
-   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
- </div>
-#<h1 align="center">👨‍💻 Hi, I'm [Achira Senadheera]!</h1>
- 
- <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;ML+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Software+Engineer+Enthusiast+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
- 
- </p>
- 
- <p align="center">
-   <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-   <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
-   <a href="https://www.akilainduwara.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
- </p>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
+</div>
 
+<h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Software+Engineer+Enthusiast+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
 
+</p>
 
-
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Me-red)](mailto:youremail@example.com)
-
-I'm a passionate **Full-Stack Web Developer** and **Software Engineer** with a love for building scalable, user-friendly applications. I enjoy solving complex problems and turning ideas into reality through code. Welcome to my GitHub profile! 🚀
+<p align="center">
+  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
+  <a href="https://www.akilainduwara.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🚀 About Me
+- 🎓 **Computer Science Undergraduate**
+- 💻 **Passionate about Java, ML & Web Development**
+- 🏆 **Coding Enthusiast | Open Source Contributor**
+- 🌱 **Currently Learning Spring Boot & Deep Learning**
+- 🛠 **Building innovative software solutions**
+  
+---
 
-Here are some of the technologies I work with:
+## 🎯 GitHub Stats & Contributions
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="AkilaInduwara's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" alt="AkilaInduwara's GitHub Streak" />
+</div>
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
+</div>
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## 🚀 **Featured Projects**
-
-Here are some of the projects I'm proud of:
-
-### **1. [Project Name](https://github.com/yourusername/project1)**
-![Project Screenshot](https://via.placeholder.com/800x400) <!-- Replace with your project screenshot or GIF -->
-- **Description**: A brief description of your project.
-- **Tech Stack**: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- **Live Demo**: [Live Demo Link](https://yourprojectdemo.com)
-
-### **2. [Project Name](https://github.com/yourusername/project2)**
-![Project Screenshot](https://via.placeholder.com/800x400) <!-- Replace with your project screenshot or GIF -->
-- **Description**: A brief description of your project.
-- **Tech Stack**: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Live Demo**: [Live Demo Link](https://yourprojectdemo.com)
+## ⚡ Technology Stack
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/><br>Java</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br>C++</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/><br>Spring Boot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+  </tr>
+</table>
 
 ---
 
-## 📈 **GitHub Stats**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🎯 **Goals for 2023**
-- 🌱 Learn **GraphQL** and **Apollo Server**.
-- 🔭 Contribute to **open-source projects**.
-- 🚀 Build a **scalable SaaS application**.
-- 📝 Write **technical blogs** on Medium or Dev.to.
-
----
-
-## 📫 **Let's Connect**
-
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out:
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
-- [Portfolio](https://yourportfolio.com)
+## 🔬 Machine Learning & AI
+- 🤖 **Deep Learning & Computer Vision**
+- 📊 **Data Science & AI Development**
+- 🚀 **TensorFlow | Keras | Scikit-learn**
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ---
 
-⭐️ **Thanks for visiting my profile!** ⭐️
+## 💎 Special Project: **Gem Finder & Water Finder**
+🚀 **Using Ultrasonic Waves & Machine Learning**
+- 📡 **Detects underground gems & water using AI**
+- 🔬 **Analyzes reflected waves for accuracy**
+- 🖥 **Displays real-time results on Laptop**
+  
+---
+
+## 📫 Reach Me
+<p align="center">
+  <a href="mailto:k.a.akilainduwara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/akila-induwara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>  
