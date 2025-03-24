@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:k.a.akilainduwara@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/akila-induwara/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AkilaInduwara"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
-  <a href="https://www.akilainduwara.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
+  <a href="mailto:achirauwanpriya@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/achira-senadheera/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Achira020811"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
+  <a href="https://www.achirasenadheera.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Computer Science Undergraduate**
-- 💻 **Passionate about Java, ML & Web Development**
+- 💻 **Passionate about Java, flutter & Web Development**
 - 🏆 **Coding Enthusiast | Open Source Contributor**
 - 🌱 **Currently Learning Spring Boot & Deep Learning**
 - 🛠 **Building innovative software solutions**
@@ -31,12 +31,12 @@
 ## 🎯 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkilaInduwara&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="AkilaInduwara's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkilaInduwara&theme=radical" alt="AkilaInduwara's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AChira020811&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="Achira_Senadheera's GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achira020811&theme=radical" alt="Achira_Senadheera's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkilaInduwara&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achira020811&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
 </div>
 
 <div align="center">
