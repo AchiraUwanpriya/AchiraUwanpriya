@@ -1,4 +1,7 @@
-<!-- Updated GitHub Profile README -->
+Certainly! Here’s an edited version of your GitHub Profile README tailored to your profile:
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
 </div>
@@ -7,21 +10,20 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=900&lines=Web+Developer+Enthusiast+%7C+Software+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Mobile+App+Frontend+Developer+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
-
 </p>
 
 <p align="center">
   <a href="mailto:achirauwanpriya@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/achira-senadheera/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/Achira020811"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github"/></a>
-  <a href="https://www.achirasenadheera.me"><img src="https://img.shields.io/badge/-akilainduwara.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
+  <a href="https://www.achirasenadheera.me"><img src="https://img.shields.io/badge/-achirasenadheera.me-00C7B7?style=flat-square&logo=appveyor&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Computer Science Undergraduate**
-- 💻 **Passionate about Java, flutter & Web Development**
+- 💻 **Passionate about Java, Flutter & Web Development**
 - 🏆 **Coding Enthusiast | Open Source Contributor**
 - 🌱 **Currently Learning Spring Boot & Deep Learning**
 - 🛠 **Building innovative software solutions**
@@ -31,12 +33,12 @@
 ## 🎯 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AChira020811&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="Achira_Senadheera's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Achira020811&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="Achira_Senadheera's GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Achira020811&theme=radical" alt="Achira_Senadheera's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achira020811&theme=rogue" alt="AkilaInduwara's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achira020811&theme=rogue" alt="Achira_Senadheera's GitHub Activity Graph" />
 </div>
 
 <div align="center">
@@ -84,14 +86,18 @@
 
 ## 📫 Reach Me
 <p align="center">
-  <a href="mailto:k.a.akilainduwara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-k.a.akilainduwara@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="mailto:achirauwanpriya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-achirauwanpriya@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/akila-induwara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Akila_Induwara-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/achira-senadheera/">
+    <img src="https://img.shields.io/badge/LinkedIn-Achira_Senadheera-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>  
+
+---
+
+Feel free to copy and paste this updated version into your GitHub Profile README. Adjust any specific details as needed!
