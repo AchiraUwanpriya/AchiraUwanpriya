@@ -1,5 +1,7 @@
-
-<h1 align="center">Achira Senadheera</h1>
+div align="center">
+   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
+ </div>
+# 👨‍💻 Hi, I'm [Achira Senadheera]!
  
  <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;ML+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
@@ -16,7 +18,7 @@
 
 
 
-# 👨‍💻 Hi, I'm [Your Name]!
+
 
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
