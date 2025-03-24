@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
 </div>
 
-<h1 align="center">𝐀𝐊𝐈𝐋𝐀 𝐈𝐍𝐃𝐔𝐖𝐀𝐑𝐀</h1>
+<h1 align="center"> 👨‍💻 Hi, I'm Achira Senadheera </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Software+Engineer+Enthusiast+%7C+ML+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Web+Developer+Enthusiast+%7C+Software+Engineer+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Mobile+App+Frontend+Developer+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
 
 </p>
 
