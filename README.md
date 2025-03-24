@@ -1,7 +1,7 @@
-div align="center">
+<div align="center">
    <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="header"/>
  </div>
-# 👨‍💻 Hi, I'm [Achira Senadheera]!
+#<h1 align="center">👨‍💻 Hi, I'm [Achira Senadheera]!</h1>
  
  <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;ML+%26+Software+Development+Enthusiast!" alt="Typing SVG" />
