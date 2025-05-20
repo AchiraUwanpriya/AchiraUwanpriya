@@ -8,7 +8,7 @@
 <br/>
 ---
 <br/>
-- 🔭 I'm currently working on **Lumistone**
+- 🔭 I'm currently working on <a href = "https://github.com/AchiraUwanpriya/Lumistone.git">Lumistone</a>
 - 🌱 Currently sharpening my skills in **Angular**, **React**, **Node.js**, and exploring **Microservices Architecture**
 - 📫 How to reach me: Feel free to connect via LinkedIn
 - 🏆 My journey is powered by curiosity, fueled by a passion for innovation, and driven by the desire to learn something new every day
