@@ -1,9 +1,9 @@
 <h1 align="center">Hey there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />, I'm Achira Senadheera</h1>
 <h2 align="center">🚀 Full Stack Web Developer | 👨‍💻 Tech Enthusiast | 🌟 Passionate Developer from Sri Lanka </h2>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
 </div>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1000" align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="1000" align="center">
 <br/>
 <br/>
 ---
