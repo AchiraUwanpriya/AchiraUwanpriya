@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
 </div>
-<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width ="700">
+<img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" width ="700" align="center">
 <br/>
 <br/>
 ---
@@ -64,9 +64,4 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Support Me:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/achirasenadheera">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
+
