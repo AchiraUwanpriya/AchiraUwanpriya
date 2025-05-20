@@ -10,7 +10,7 @@
 <br/>
 - 🔭 I'm currently working on <a href = "https://github.com/AchiraUwanpriya/Lumistone.git">Lumistone</a> <br>
 - 🌱 Currently sharpening my skills in <b>Angular </b>, <b>React</b> , <b>Node.js</b> , and exploring <b>Microservices Architecture</b> <br>
-- 📫 How to reach me: <b>Feel free to connect via LinkedIn OR</b><a href ="achirauwanpriya@gmail.com">AchiraUwanpriya@gmail.com</a> <br>
+- 📫 How to reach me: <b>Feel free to connect via LinkedIn OR</b> <a href ="mailto:achirauwanpriya@gmail.com">AchiraUwanpriya@gmail.com</a> <br>
 - 🏆 My journey is powered by curiosity, fueled by a passion for innovation, and driven by the desire to learn something new every day
 <div align="center">
   <br>
