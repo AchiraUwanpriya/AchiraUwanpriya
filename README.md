@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Developer+%7C+Problem+Solver;⚡+React+%7C+Angular+%7C+Node.js+%7C+Flutter;💡+JavaScript+%7C+TypeScript+%7C+Java+%7C+Tailwind+CSS;🎯+Crafting+Innovative+%26+Scalable+Solutions;🔥+Lifelong+Learner+%7C+Constantly+Evolving" alt="Typing SVG">
 </div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"  align="center" justify-content="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" align="center">
 <br/>
 <br/>
 ---
